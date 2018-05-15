@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+#formulario{
+	background-color: #B11616; 
+	margin-top: 100px; 
+	width: 300px; 
+	color: white; 
+	border-radius: 20px; 
+	padding: 15px;
+	border: 2px dotted black;
+	font-weight: bold;
+}
+#formulario input{
+	margin-top: 10px;
+	border-radius: 3px;
+	background-color: #F69B9C;
+	border: 1px solid #4D0A09;
+	text-align: center;
+	color: white;
+}
+#boton{
+	background-color: #801818 !important;
+	color: white;
+	border-radius: 5px;
+	border: 3px double white !important;
+	font-weight: bold;
+}
